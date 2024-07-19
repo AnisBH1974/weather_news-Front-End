@@ -1,0 +1,8 @@
+/* image-background-style.css */
+.image-background {
+    background-image: url('images/france-departmentsgeojson.svg');
+    background-size: cover;
+
+
+    /* Autres styles CSS si nécessaire */
+}
